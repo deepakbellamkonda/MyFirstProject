@@ -11,4 +11,6 @@ class Deepak{
   static void m3(){
     System.out.println(System.in);
   }
+  static void m4(){
+    System.out.println(System.in);
 }
